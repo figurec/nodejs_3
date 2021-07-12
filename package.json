@@ -1,0 +1,13 @@
+{
+  "name": "node-js-3",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^7.2.0"
+  },
+}
